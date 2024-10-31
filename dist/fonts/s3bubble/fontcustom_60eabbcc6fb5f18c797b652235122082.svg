@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2015-5-16: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20150401 at Sat May 16 12:19:05 2015
+ By Samuel East
+Copyright (c) 2015, Samuel East
+</metadata>
+<defs>
+<font id="fontcustom" horiz-adv-x="200" >
+  <font-face 
+    font-family="fontcustom"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="66.4844 16.5762 417.333 367.424"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+0020-F100"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="uniF100" unicode="&#xf100;" horiz-adv-x="512" 
+d="M242.089 367.424c97.1973 0 175.604 -78.4072 175.243 -175.243c0 -97.1973 -78.7686 -175.604 -175.604 -175.604c-3.25195 0 -6.86523 0 -10.1172 0.361328h-158.983l59.2568 38.3008c-39.7451 32.1572 -65.3994 81.2979 -65.3994 136.581
+c0 97.1973 78.7686 175.604 175.604 175.604zM329.169 183.509c4.69727 4.69727 4.69727 12.2852 0 16.9824l-117.793 75.1562c-4.69727 4.69727 -12.2852 4.69727 -16.9824 0v-167.656c4.69727 -4.69727 12.2852 -4.69727 16.9824 0z" />
+  </font>
+</defs></svg>
